@@ -1,6 +1,5 @@
 # 💫 About Me:
-# Hi
-# I'm Aravind
+#Hi,I'm Aravind
 👨‍💻 Code. Build. Deploy. Repeat.
 🚀 Full-Stack Developer & AI Enthusiast passionate about creating scalable products, intelligent systems, and seamless user experiences.
 ⚡ Exploring DevOps, AI Agents, and next-gen technologies while turning caffeine into production-ready code.
