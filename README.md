@@ -1,5 +1,13 @@
 # 💫 About Me:
-# Hi, I'm Aravind 👋<br><br>Passionate Full-Stack Developer and AI Enthusiast with experience in building scalable web applications, machine learning solutions, and real-time systems. Skilled in MERN Stack, TypeScript, Python, Django, and modern cloud deployment practices. I enjoy transforming innovative ideas into impactful products, from fintech platforms and freelance marketplaces to AI-powered language detection and predictive analytics systems.
+# <img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="150" style="border-radius:50%;" />
+
+# I'm Aravind
+
+👨‍💻 Code. Build. Deploy. Repeat.
+
+🚀 Full-Stack Developer & AI Enthusiast passionate about creating scalable products, intelligent systems, and seamless user experiences.
+
+⚡ Exploring DevOps, AI Agents, and next-gen technologies while turning caffeine into production-ready code.
 
 
 ## 🌐 Socials:
