@@ -1,12 +1,8 @@
 # 💫 About Me:
-# <img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="150" style="border-radius:50%;" />
-
+# Hi
 # I'm Aravind
-
 👨‍💻 Code. Build. Deploy. Repeat.
-
 🚀 Full-Stack Developer & AI Enthusiast passionate about creating scalable products, intelligent systems, and seamless user experiences.
-
 ⚡ Exploring DevOps, AI Agents, and next-gen technologies while turning caffeine into production-ready code.
 
 
